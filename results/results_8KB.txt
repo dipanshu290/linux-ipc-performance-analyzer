@@ -1,0 +1,6 @@
+Linux IPC Performance Analyzer
+
+IPC,Messages,Bytes,Time(ms),Throughput(MB/s)
+Pipe,1000,8192000,193.629,40.3478
+POSIX Message Queue,1000,8192000,219.782,35.5466
+Shared Memory,1000,8192000,152.138,51.3514
